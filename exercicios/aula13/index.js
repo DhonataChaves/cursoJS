@@ -1,6 +1,8 @@
 //Objeto math
+/*
 let num1 = 25;
-console.log(num1 ** 0.5);
+console.log(num1 ** 0.5); descobrir a raiz quadrada
+*/
 
 
 
