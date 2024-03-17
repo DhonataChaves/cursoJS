@@ -56,15 +56,3 @@ pessoa1.fala();
 pessoa1.incrementoIdade();
 pessoa1.fala();
 */
-
-const soma = {
-    num1: 5,
-    num2: 10,
-
-    resultadoSoma() {
-        console.log(`A soma entre`);
-    },
-
-};
-
-soma.resultadoSoma();
